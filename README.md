@@ -13,7 +13,17 @@ I'm Nicholas Wilkins, a student at Brigham Young University-Idaho interested in 
 ## Technologies and Tools 
 
 - Proficient in: HTML, CSS, JavaScript, C#, Python, SQL, VSCode, Git, GitHub, etc.
+- Learning: TypeScript, Java, Kotlin, C++, React
 - Skills: Adaptability, Teamwork, Communication, Analytical Thinking, Problem Solving, and Research
+
+## Projects
+
+- [Note-Taking Application (TypeScript)](https://github.com/Darth-Volix/Note_Taker_TypeScript)
+- [Portfolio Website (React)](https://github.com/Darth-Volix/React_Portfolio)
+- [Simple Games (Java)](https://github.com/Darth-Volix/Game_App_Java)
+- [Contact Book Application (Kotlin)](https://github.com/Darth-Volix/Contact_Book_Kotlin)
+- [Task Manager Application (C++)](https://github.com/Darth-Volix/Task_Manager_C--)
+- [Weather Web Application (React)](https://github.com/Darth-Volix/Weather_WebApp)
 
 ## Let's Connect!
 
