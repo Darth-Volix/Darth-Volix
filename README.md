@@ -17,6 +17,6 @@ I'm Nicholas Wilkins, a student at Brigham Young University-Idaho interested in 
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](Your LinkedIn Profile Link) profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/nicholas-wilkins-81889a362/) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
